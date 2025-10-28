@@ -1,24 +1,4 @@
 
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>ENEM - Projeções e Vistas Ortogonais</title>
-    <style>
-        /* estilos mantidos e limpos (sem alterações de design importantes) */
-        body {
-            box-sizing: border-box;
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            margin: 0;
-            padding: 0;
-            background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 50%, #1d4ed8 100%);
-            min-height: 100%;
-            color: #1f2937;
-            line-height: 1.5;
-            font-size: 14px;
-        }
-        html { height: 100%; }
-
         .container {
             max-width: 1200px;
             margin: 0 auto;
