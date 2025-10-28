@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8" />
@@ -793,4 +794,3 @@
     <!-- Observação: scripts injetados/externos foram removidos por segurança. -->
 </body>
 </html>
-
